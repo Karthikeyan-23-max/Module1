@@ -23,6 +23,15 @@ else:
 ## Output
 ![440188094-8ca5d158-6045-435a-a17b-4d6c4554cd94](https://github.com/user-attachments/assets/b2c939af-8660-4aa3-965f-8fd67e81f1ee)
 
+
+
+
+
+
+
+
+
+
 ## Result
 Thus the program to check whether the given number is even or odd using if...else statements is done successfully.
 
